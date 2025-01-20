@@ -12,7 +12,7 @@ Leiva FP, Niklitschek EJ, Paschke K, Gebauer P, Urbina MA (2022). Data and code 
 All processing was done in R. The R folder contains the scripts to reproduce the analyzes and generate figures presented in the manuscript. The outputs folder contains the output files of each R scripts.   
 
 ## Licence
-This repository is provided by the authors under the [MIT License](https://opensource.org/licenses/MIT).
+This repository is provided by the author under the [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) License.
 
 ## Further information
 For any further information, please contact me: Félix P. Leiva, email: felixpleiva@gmail.com
